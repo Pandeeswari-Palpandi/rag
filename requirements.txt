@@ -1,0 +1,9 @@
+faiss-cpu
+langchain-community
+langchain-huggingface
+langchain-openai
+langchain-text-splitters
+langsmith>=0.3.45,<1.0.0
+openai
+python-dotenv
+streamlit

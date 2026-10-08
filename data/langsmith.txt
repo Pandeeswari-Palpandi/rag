@@ -1,0 +1,8 @@
+LangSmith is a developer platform designed for building, testing, debugging, monitoring, 
+and evaluating LLM and AI agent applications. It works especially well with frameworks such as LangChain 
+and helps developers trace every step of an AI application, including prompts, model calls, tool usage, 
+outputs, errors, and execution time. LangSmith also provides features for prompt testing, 
+dataset creation, evaluation, observability, and performance monitoring, making it easier to identify 
+problems and improve the quality and reliability of AI applications. In simple terms, LangChain helps 
+you build AI applications, while LangSmith helps you understand, test, and improve how those 
+applications work.
